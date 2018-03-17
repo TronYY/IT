@@ -1,0 +1,5 @@
+x=0:0.0001:10;
+y=log(x)-x+1;
+plot(x,y);
+title('y=lnx');
+grid
